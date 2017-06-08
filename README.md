@@ -39,6 +39,6 @@ Editing the Hello World File
 ----------------------------
 I've moved the application / logo to the /app directory. Inside of this directory you can edit the index.php file to customize the Hello World message and/or change the logo to your own.
 
-edytowane
+edytowane pokaz
 
 # docker-hello-world
